@@ -15,31 +15,31 @@
     {
       "name": "ChimpySwap Token",
       "symbol": "CHIMPY",
-      "address": "0x026a3918A6D6F7B7b1b6887B8B650143b5d04732",
+      "address": "0xADfFd760F642b5305b0AbDa21cf956Dd836B5de5",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://tokens.chimpyswap.com/images/0x026a3918a6d6f7b7b1b6887b8b650143b5d04732.png"
     },
     {
-      "name": "Binance Pegged Bitcoin",
-      "symbol": "BTCB",
-      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "name": "Fantom Pegged Bitcoin",
+      "symbol": "FBTC",
+      "address": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://tokens.chimpyswap.com/images/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
     },
     {
-      "name": "Binance Pegged BUSD",
-      "symbol": "BUSD",
-      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "name": "Fantom Pegged BUSD",
+      "symbol": "FUSD",
+      "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://tokens.chimpyswap.com/images/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
     },
     {
-      "name": "Binance Pegged DAI",
+      "name": "Fantom Pegged DAI",
       "symbol": "DAI",
-      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://tokens.chimpyswap.com/images/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
@@ -47,7 +47,7 @@
     {
       "name": "Binance Pegged ETH",
       "symbol": "ETH",
-      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://tokens.chimpyswap.com/images/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
@@ -55,47 +55,31 @@
     {
       "name": "True USD",
       "symbol": "TUSD",
-      "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
+      "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://tokens.chimpyswap.com/images/0x14016e85a25aeb13065688cafb43044c2ef86784.png"
     },
     {
-      "name": "Binance Pegged USD Coin",
+      "name": "Fantom Pegged USD Coin",
       "symbol": "USDC",
-      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "address": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://tokens.chimpyswap.com/images/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
     },
     {
-      "name": "Binance Pegged USDT",
-      "symbol": "USDT",
-      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Fantom Pegged USDT",
+      "symbol": "fUSDT",
+      "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://tokens.chimpyswap.com/images/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
-      "name": "USDX",
-      "symbol": "USDX",
-      "address": "0x1203355742e76875154C0D13eB81DCD7711dC7d9",
-      "chainId": 250,
-      "decimals": 6,
-      "logoURI": "https://tokens.chimpyswap.com/images/0x1203355742e76875154c0d13eb81dcd7711dc7d9.png"
-    },
-    {
-      "name": "UST Token",
-      "symbol": "UST",
-      "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://tokens.chimpyswap.com/images/0x23396cF899Ca06c4472205fC903bDB4de249D6fC.png"
-    },
-    {
-      "name": "WBNB Token",
-      "symbol": "WBNB",
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM",
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://tokens.chimpyswap.com/images/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"

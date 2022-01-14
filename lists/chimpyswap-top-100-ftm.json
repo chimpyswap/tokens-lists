@@ -13,12 +13,12 @@
   ],
   "tokens": [
     {
-      "name": "Binance Pegged ETH",
-      "symbol": "ETH",
-      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "name": "SCARAB",
+      "symbol": "SCARAB",
+      "address": "0x2e79205648B85485731CFE3025d66cF2d3B059c4",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://tokens.chimpyswap.com/images/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+      "logoURI": "https://ftmscan.com/token/images/scarabfinance_32.png"
     }
   ]
 }

@@ -45,14 +45,6 @@
       "logoURI": "https://tokens.chimpyswap.com/images/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
     },
     {
-      "name": "Binance Pegged ETH",
-      "symbol": "ETH",
-      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://tokens.chimpyswap.com/images/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
-    },
-    {
       "name": "True USD",
       "symbol": "TUSD",
       "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",

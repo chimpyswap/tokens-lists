@@ -12,29 +12,6 @@
     "top 100"
   ],
   "tokens": [
-    {
-      "name": "Dai Token",
-      "symbol": "DAI",
-      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png"
-    },
-    {
-      "name": "TrueUSD",
-      "symbol": "TUSD",
-      "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x14016E85a25aeb13065688cAFB43044C2ef86784/logo.png"
-    },
-    {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
-    }
+    
   ]
 }
